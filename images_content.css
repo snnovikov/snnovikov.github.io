@@ -1,0 +1,13 @@
+
+body{
+	background-image: url(main_bg.jpg);
+	background-position: 0 -20px;
+}
+p{
+    color: rgb(252, 240, 240);
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    padding-left: 30%;
+}

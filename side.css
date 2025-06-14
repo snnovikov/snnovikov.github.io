@@ -1,0 +1,28 @@
+body{
+	background-image: url(main_bg.jpg);
+	background-position: 70px -20px;
+}
+a:link{
+	color:#ffffff;
+	text-decoration:none;
+}
+a:visited{
+	color:#00ffff;
+}
+a:hover{
+	color:red;
+}
+a:active{
+	color:#ffa500;
+}
+.links{
+    padding: 20px;
+    background-color: #ff89a6ce;
+    border-radius: 10%;
+}
+.page_name{
+	font-size: 30px;
+	color: #ffffff;
+	padding: 5px;
+	text-align: center;
+}
