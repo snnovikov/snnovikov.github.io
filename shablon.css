@@ -2,7 +2,7 @@ header{
 	background-color:#f5a9a9;
 }
 body{
-	background-image: url(main_bg.jpg);
+	background-image: url(img/main_bg.jpg);
 	background-position: 0 -20px;
 }
 a:link{
@@ -14,7 +14,7 @@ a:link{
     border-radius: 10%;
 }
 a:visited{
-	color:#00ffff;
+	color:#f8fbfd;
 }
 a:hover{
 	color:rgb(255, 174, 0);
@@ -59,4 +59,8 @@ a:active{
 	color:#ffffff;
 	font-size:25px;
 	
+}
+a.normal{
+	color:#ffffff;
+	text-decoration:none;
 }

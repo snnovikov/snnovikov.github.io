@@ -1,0 +1,24 @@
+body{
+	background-image: url(img/main_bg.jpg);
+	background-position: -250px -20px;
+}
+img{
+    float: left;
+    margin: 20px;
+}
+.introduction p{
+	display:block;
+	text-align:justify;
+	color:#ffffff;
+	font-size:25px;
+	background-color: #a08bffd0;
+	padding: 30px 60px;
+}
+blockquote{
+    display:block;
+	text-align:justify;
+	color:#ffffff;
+	font-size:25px;
+	background-color: #a08bffd0;
+	padding: 30px 60px;
+}

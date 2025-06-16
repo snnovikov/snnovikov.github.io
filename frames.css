@@ -2,7 +2,7 @@ header{
 	background-color:#f5a9a9;
 }
 body{
-	background-image: url(main_bg.jpg);
+	background-image: url(img/main_bg.jpg);
 	background-position: 0 -20px;
 }
 a:link{
@@ -42,7 +42,7 @@ nav{
 	position:fixed;
 	left:0px;
 	top:-16px;
-	background-image: url(main_bg.jpg);
+	background-image: url(img/main_bg.jpg);
 	background-position: 0 -20px;
 	align-content:center;
 }

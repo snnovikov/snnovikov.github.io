@@ -1,5 +1,5 @@
 body{
-	background-image: url(main_bg.jpg);
+	background-image: url(img/main_bg.jpg);
 	background-position: 70px -20px;
 }
 a:link{
@@ -7,7 +7,7 @@ a:link{
 	text-decoration:none;
 }
 a:visited{
-	color:#00ffff;
+	color:#fdfdfd;
 }
 a:hover{
 	color:red;
