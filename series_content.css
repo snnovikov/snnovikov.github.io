@@ -13,12 +13,14 @@ img{
 	font-size:25px;
 	background-color: #a08bffd0;
 	padding: 30px 60px;
+	line-height: 2;
+	text-indent: 50px;
 }
 blockquote{
     display:block;
 	text-align:justify;
 	color:#ffffff;
 	font-size:25px;
-	background-color: #a08bffd0;
+	background-color: #8b9cffd0;
 	padding: 30px 60px;
 }

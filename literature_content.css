@@ -1,0 +1,30 @@
+body{
+	background-image: url(img/main_bg.jpg);
+	background-position: -250px -20px;
+}
+h2{
+    color: rgb(252, 240, 240);
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    width:90%;
+}
+img{
+    float: left;
+    margin: 20px;
+}
+article{
+    background-color: rgba(250, 147, 219, 0.589);
+    border-radius: 20%;
+    padding: 10px;
+}
+.clearix{
+    clear: both;
+}
+.info{
+    text-align:left;
+}
